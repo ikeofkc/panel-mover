@@ -1,10 +1,12 @@
-# fullscreen-avoider
+# panel mover
 GNOME Shell Extension. 
 
-Moves the top panel to the secondary monitor if the primary is in fullscreen.
+Fork of Fullscreen-avoider, which moves the top panel to the secondary monitor if the primary is in fullscreen.
+Forked for educational purposes, intall at your own peril.
+
 
 ## Installation from repository
-[Gnome Shell Extensions page](https://extensions.gnome.org/extension/4362/fullscreen-avoider/)
+
 
 ## Installation from git
 ```bash
