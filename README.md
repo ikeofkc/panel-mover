@@ -8,7 +8,7 @@ Moves the top panel to the secondary monitor if the primary is in fullscreen.
 
 ## Installation from git
 ```bash
-git clone https://github.com/Noobsai/fullscreen-avoider.git
+git clone https://github.com/ikeofkc/panel-mover.git
 cd fullscreen-avoider
 make install
 ```
